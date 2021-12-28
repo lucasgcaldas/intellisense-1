@@ -124,9 +124,8 @@ public class Main {
                     names.add(results.get(2).getName());
                     names.add(results.get(3).getName());
                 } else if(i == 3){
-                    names.add(results.get(4).getName());
-                } else if(i == 4){
-                    names.add(results.get(0).getName());
+                    names.add(results.get(3).getName()); //25 - 12
+                    names.add(results.get(9).getName()); //31 - 22
                 }
             }
         }
