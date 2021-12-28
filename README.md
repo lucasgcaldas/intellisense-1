@@ -1,5 +1,8 @@
 # 🚀Backend Challenge - SWAPI - Intellisense
 
+## Challenge 2 - https://github.com/lucasgcaldas/intellisense-2
+## Challenge 3 - https://github.com/lucasgcaldas/intellisense-3
+
 ### ⚔️ The Challenge
 
 Get the data from SWAPI API and exhibit the results visually, find the characters who appear the most in the SW movies, verify how many pilots did the Millenium Falcon and the names.
